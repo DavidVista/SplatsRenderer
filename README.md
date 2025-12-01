@@ -28,6 +28,7 @@ npm install @sparkjsdev/spark
 
 Finally, ensure you have installed python or any other mean of launching an http server. Here I would stick to Python for simplicity:
 ```bash
+cd src
 python -m http.server 8000
 ```
 
